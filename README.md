@@ -1,4 +1,4 @@
-# Multinomial naive Bayes classifier for fake news recognition
+# Multinomial Naive Bayes classifier for fake news recognition
 
 ## Authors:
 - [Eugenio Fella](https://github.com/eugeniofella)
