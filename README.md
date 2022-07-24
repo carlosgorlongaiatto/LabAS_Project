@@ -2,5 +2,5 @@
 
 ## Authors:
 - [Eugenio Fella](https://github.com/eugeniofella)
-- Theivan Pasupathipillai
+- [Theivan Pasupathipillai](https://github.com/TheivanPasu)
 - [Carlo Sgorlon Gaiatto](https://github.com/carlosgorlongaiatto)
